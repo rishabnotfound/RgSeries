@@ -26,7 +26,7 @@ RgSeries offers a diverse range of content categories, including:
 
 ## Usage 📽️
 
-1. Visit [https://rgseries.vercel.app/](https://rgseries.vercel.app/) in your web browser.
+1. Visit [https://rishabnotfound.github.io/RgSeries](https://rishabnotfound.github.io/RgSeries) in your web browser.
 2. Browse through the extensive collection of series, TV shows, and anime.
 3. Click on any title to start streaming instantly.
 4. Enjoy hours of entertainment with minimal interruptions.
