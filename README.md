@@ -1,5 +1,7 @@
 # RgSeries 📺
 
+<img width="1897" height="936" alt="image" src="https://github.com/user-attachments/assets/068cd47a-1be1-4d75-b83e-f866a6f19b8d" />
+
 Welcome to RgSeries, your one-stop destination for streaming your favorite series, TV shows, and anime for free! With minimal ads and a sleek UI, binge-watching has never been more enjoyable. 🚀
 
 **NOTE : THIS PROJECT IS NOW OLD AND OUTDATED !!**
